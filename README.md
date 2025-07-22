@@ -1,7 +1,7 @@
-# protokids
+# OKids
 Nostalgic Kids Website being built for ProtoWeb
 
-Thank you for contributing to ProtoKids. This is a prototype for an idea for ProtoWeb, which allows you to do flash activities within a 90s computer.
+Thank you for contributing to OKids. This is a prototype for an idea for ProtoWeb, which allows you to do flash activities within a 90s computer.
 
 How to use website:
 
