@@ -9,3 +9,5 @@ How to use website:
 2. Extract the zip
 3. Open "OPENME.htm"
 4. Check out the progrsss
+
+IT IS RECCOMENDED TO USE THIS WEBSITE IN A BROWSER WITH ADOBE FLASH 6
