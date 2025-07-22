@@ -5,9 +5,8 @@ Thank you for contributing to ProtoKids. This is a prototype for an idea for Pro
 
 How to use website:
 
-1. Download .zip from latest release
-2. Extract the zip
-3. Open "OPENME.htm"
-4. Check out the progrsss
+Click the URL here or on the github side bar
 
-IT IS RECCOMENDED TO USE THIS WEBSITE IN A BROWSER WITH ADOBE FLASH 6
+https://thegamesystems.github.io/protokids-test-site/
+
+IT IS RECCOMENDED TO USE THIS WEBSITE IN RETROZILLA WITH ADOBE/MACROMEDIA FLASH
