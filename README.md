@@ -10,3 +10,5 @@ Click the URL here or on the github side bar
 https://thegamesystems.github.io/protokids-test-site/
 
 IT IS RECCOMENDED TO USE THIS WEBSITE IN RETROZILLA WITH ADOBE/MACROMEDIA FLASH
+
+Changelogs in Releases
