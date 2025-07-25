@@ -1,5 +1,5 @@
 # OKids
-Nostalgic Kids Website being built for ProtoWeb
+Nostalgic Kids Website for older computers
 
 Thank you for contributing to OKids. This is a prototype for an idea for ProtoWeb, which allows you to do flash activities within a 90s computer.
 
