@@ -7,7 +7,7 @@ How to use website:
 
 Click the URL here or on the github side bar
 
-https://thegamesystems.github.io/protokids-test-site/
+https://thegamesystems.github.io/OKids-Beta-Site/
 
 IT IS RECCOMENDED TO USE THIS WEBSITE IN RETROZILLA WITH ADOBE/MACROMEDIA FLASH
 
