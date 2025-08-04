@@ -10,5 +10,6 @@ Click the URL here or on the github side bar
 https://thegamesystems.github.io/OKids-Beta-Site/
 
 IT IS RECCOMENDED TO USE THIS WEBSITE IN RETROZILLA WITH ADOBE/MACROMEDIA FLASH
+This website also works in Chrome, Edge, and Firefox with Ruffle, or other Flash emulators
 
 Changelogs in Releases
