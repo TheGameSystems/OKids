@@ -14,6 +14,4 @@ This website also works in Chrome, Edge, and Firefox with Ruffle, or other Flash
 
 Changlog:
 
-Added Everybody Do The Flop
-Added Duck Life
-Issue with Ruffle and EDTF. Currently searching
+Added Pipe Mania (requested by my mom)
