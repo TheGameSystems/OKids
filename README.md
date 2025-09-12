@@ -1,7 +1,7 @@
 # OKids
 Nostalgic Kids Website for older computers
 
-Thank you for contributing to OKids. This is website, which allows you to do flash activities within a 90s computer.
+# OKids Website files will be moved to this repository on September 13, 2025 at or around 3:45pm. This means the website URL will be changed. The new URL will be ¨http://thegamesystems.github.io/OKids¨. We are sorry for the inconvienence, but we feel this will ease access and development.
 
 How to use website:
 
@@ -14,4 +14,4 @@ This website also works in Chrome, Edge, and Firefox with Ruffle, or other Flash
 
 Changlog:
 
-Added Pipe Mania (requested by my mom)
+Announcement made on website.
