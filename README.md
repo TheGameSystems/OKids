@@ -8,10 +8,13 @@ How to use website:
 Click the URL here or on the github side bar
 
 https://thegamesystems.github.io/OKids/
+Or
+https://thegamesystems.github.io/OKids-Java/
 
-IT IS RECCOMENDED TO USE THIS WEBSITE IN RETROZILLA WITH ADOBE/MACROMEDIA FLASH
-This website also works in Chrome, Edge, and Firefox with Ruffle, or other Flash emulators
+You need flash to access the website. Or you can use the Java url.
 
 Changlog:
 
-Left Beta stages. Now in production!
+New transparent-ish logo. Not sure how I feel about it
+
+Java: Now ready, and buttons are fixed, and Everybody Do The Flop had to be removed due to playback errors.
