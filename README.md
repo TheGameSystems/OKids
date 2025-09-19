@@ -15,6 +15,6 @@ You need flash to access the website. Or you can use the Java url.
 
 Changlog:
 
-New transparent-ish logo. Not sure how I feel about it
+Seasonal Logos Made. Currently have one made for Fall/Halloween.
 
-Java: Now ready, and buttons are fixed, and Everybody Do The Flop had to be removed due to playback errors.
+Link to OKids Ruffle Port has been made on the OKids homepage.
