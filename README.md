@@ -7,14 +7,14 @@ How to use website:
 
 Click the URL here or on the github side bar
 
-https://thegamesystems.github.io/OKids/
+http://okids.xyz
 Or
 https://thegamesystems.github.io/OKids-Java/
+Or
+http://okids.xyz/Java
 
 You need flash to access the website. Or you can use the Java url.
 
 Changlog:
 
-Seasonal Logos Made. Currently have one made for Fall/Halloween.
-
-Link to OKids Ruffle Port has been made on the OKids homepage.
+OKids has a new domain! okids.xyz
