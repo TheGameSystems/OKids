@@ -10,11 +10,13 @@ Click the URL here or on the github side bar
 http://okids.xyz
 Or
 https://thegamesystems.github.io/OKids-Java/
-Or
-http://okids.xyz/Java
 
 You need flash to access the website. Or you can use the Java url.
 
 Changlog:
 
-OKids has a new domain! okids.xyz
+okids.xyz Java has been removed until further notice
+
+Trying to resolve issue with background not showing
+
+BONUS: if you type "okids.xyz/index.htm", you will see the conceptualized prototype of OKids homepage (which at the time was called ProtoKids)
