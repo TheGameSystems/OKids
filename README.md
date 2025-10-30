@@ -1,7 +1,7 @@
 # OKids
 Nostalgic Kids Website for older computers
 
-Thank you for your visit to OKids. This is website, which allows you to do flash activities within a 90s computer.
+Thank you for your visit to OKids. This is a website, which allows you to do flash activities within a 90s or 2000s computer.
 
 How to use website:
 
