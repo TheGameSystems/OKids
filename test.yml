@@ -1,0 +1,2 @@
+- name: Export website
+  uses: EDM115/website-export-action@v0.0.4
