@@ -1,5 +1,3 @@
-# Replace all the occurrences of 'hello' with 'world' in all the txt files, 
-# excluding the node_modules folder
 - name: Replace multiple files
   uses: richardrigutins/replace-in-files@v2
   with:
