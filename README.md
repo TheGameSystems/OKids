@@ -17,9 +17,9 @@ You need flash to access the website. Or you can use the Java url.
 
 Changlog:
 
-Fixing issue where in "Pipe Mania", links above the game lead to non-existant beta site.
+**Happy Holidays from OKids**
 
-Scratch for OKids is in development!
+Added OKids branding to Duck Life. More games to come
 
 **NOTICE: My school has flagged both okids.xyz, and thegamesystems.github.io. Thanks to this, I can no longer develop the site during school, as I need those to see the changes. Thanks to this, updates may be delayed. Sorry for the inconvience, but my school SUCKS**
 
