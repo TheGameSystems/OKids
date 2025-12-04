@@ -1,4 +1,4 @@
-- name: Replace multiple files
+  name: Replace multiple files
   uses: richardrigutins/replace-in-files@v2
   with:
     files: '**/*.html'
