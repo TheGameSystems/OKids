@@ -1,5 +1,6 @@
   name: Replace multiple files
   uses: richardrigutins/replace-in-files@v2
+    
     files: '**/*.html'
     search-text: 'https://thegamesystems.github.io'
     replacement-text: 'http://okids.xyz'
