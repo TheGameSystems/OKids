@@ -1,0 +1,8 @@
+- name: Replace multiple files
+  uses: richardrigutins/replace-in-files@v2
+  with:
+    files: '**/*.html'
+    search-text: 'https://thegamesystems.github.io'
+    replacement-text: 'http://okids.xyz'
+    exclude: 'node_modules/**'
+    encoding: 'utf8'
